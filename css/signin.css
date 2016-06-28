@@ -1,0 +1,9 @@
+body{ background:#25598b;}
+.container{ width: 100%;}
+.form{width: 600px; height: 100px; background:#f5f5f5; margin: 0 auto;  border-radius: 10px; }
+.form-sign{width: 600px; height: 100px; background: #0a3e69; margin: 0 auto; margin-top: 200px;  border-radius: 10px;border: none;}
+.heading{ color: #ffffff;}
+.only{ color: #ffffff; margin-top: 40px; margin-left: 40px; }
+.word{ width: 300px;height: 30px; margin-left: 20px;}
+.clon{width: 100px;height: 30px; background: #2eab3e; color: #ffffff; border: none;}
+.clon a { color: #ffffff;}
