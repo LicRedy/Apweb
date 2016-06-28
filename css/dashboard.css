@@ -60,3 +60,7 @@ body {
 
 /* 无线用户页面 */
 #right{ float: right;}
+
+
+/* 接口配置信息页面 */
+#top{ margin-top: 20px;}
